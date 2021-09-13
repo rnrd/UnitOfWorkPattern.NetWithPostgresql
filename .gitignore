@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PostgresqlExample.API/bin/Debug/netcoreapp3.1
+/PostgresqlExample.API/obj
+/PostgresqlExample.API/Properties/launchSettings.json
+/PostgresqlExample.API/appsettings.Development.json
+/PostgresqlExample.API/appsettings.json
